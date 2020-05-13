@@ -1,0 +1,30 @@
+body {
+  background-color: #16eacf;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #760814;
+  font-size: 3em;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: 200;
+}
+
+#weather-report {
+    line-height: 1.4em;
+    color: #760814;
+    font-size: 1.5em;
+}
+
+.container {
+  border: 10px solid #760814;
+  border-radius: 5px;
+}
+
+
+#city-form {
+  width: 30em;
+  margin: 1em auto;
+}
